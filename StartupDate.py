@@ -5,7 +5,6 @@ from java.util import Date
 from java.text import SimpleDateFormat
 t = Date()  # Current date will be returned to t
 searchday=SimpleDateFormat("dd").format(t) # extracting only day from the today date e.g:  Jul 3 2009 returns 3 here
-## Teste
 #
 # Script Pyton para analisar data do ultimo Restart no Weblogic
 # Author: Junior Amaral - Sep/2014
