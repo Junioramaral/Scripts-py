@@ -1,4 +1,3 @@
-###
 import sys
 import os
 from java.lang import System
